@@ -9,7 +9,7 @@ A look at some of the extinct animals. See how many you can identify.
 
 <!-- more -->
 
-1 . It is an extinct genus of very large snakes that lived in what is now La Guajira in Columbia. They could grow up to 12.8m long and reach a weight of 1135 kgs.
+1 . It is an extinct genus of very large snakes that lived in what is now La Guajira in Colombia. They could grow up to 12.8m long and reach a weight of 1135 kgs.
 
 ![_config.yml]({{ site.baseurl }}/assets/images/titanoboa.jpg)
 
