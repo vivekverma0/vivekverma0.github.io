@@ -1,0 +1,1 @@
+This blog will contain posts on whatever I find interesting.

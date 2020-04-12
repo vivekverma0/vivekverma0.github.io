@@ -2,7 +2,7 @@
 layout: post
 title:  "Extinct Animals"
 date:   2020-04-12 13:21:59 +0100
-categories: jekyll update
+categories: trivia
 ---
 
 A look at some of the extinct animals. See how many you can identify.
