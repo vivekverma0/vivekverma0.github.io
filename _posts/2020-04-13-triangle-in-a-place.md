@@ -34,11 +34,11 @@ Consider a heptagon drawn with these 7 points as its vertices. Then each interio
 
 From the above, we know that 
 
-$$ angle ADB = \pi / 7 $$.
+$$ \angle ADB = \pi / 7 $$.
 
-With the same logic, we know $$ angle DAG : angle DAB = 3 : 2 $$. Since $$ angle GAB = 5\pi / 7 $$ , we have $$ angle DAB = 2\pi / 7 $$.
+With the same logic, we know $$ \angle DAG : \angle DAB = 3 : 2 $$. Since $$ \angle GAB = 5\pi / 7 $$ , we have $$ \angle DAB = 2\pi / 7 $$.
 
-Sum of angles in a triangle is $$ \pi $$, hence $$ angle ADB + angle DAB + angle ABD = \pi $$. Or , $$ angle ABD = 4\pi / 7 $$.
+Sum of angles in a triangle is $$ \pi $$, hence $$ \angle ADB + \angle DAB + \angle ABD = \pi $$. Or , $$ \angle ABD = 4\pi / 7 $$.
 
 We can see that $$ \pi / 7 $$, $$ 2\pi / 7 $$, and $$ 4\pi / 7 $$ are in geometric progression. 
 
