@@ -4,6 +4,7 @@ title:  "Triangle in a Plane"
 date:   2020-04-13 12:21:59 +0100
 categories: math
 mathjax: true
+comments: true
 ---
 
 All points in a plane are colored using three colors. Prove that there exists a triangle with vertices having the same color such that either it is isosceles or its angles are in geometric progression.
