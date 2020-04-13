@@ -13,13 +13,13 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Vivek Verma
-  tagline: Developer
+  tagline: vverma.blog@gmail.com
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: VivekVerma0
+    # twitter: VivekVerma0
     github:  vivekverma0
     linkedIn: in/vivek-verma-31b71245/
 
