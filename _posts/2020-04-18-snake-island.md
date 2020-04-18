@@ -2,7 +2,7 @@
 layout: post
 title:  "Snake Island"
 date:   2020-04-18 12:21:59 +0100
-categories: travel
+categories: trivia
 comments: true
 ---
 
