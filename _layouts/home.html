@@ -33,6 +33,7 @@ layout: default
         <div class="post">
           {%- if site.show_excerpts -%}
             {{ post.excerpt }}
+            <a href="{{ post.url }}">Read More</a>
           {%- endif -%}
         </div>
       </li>
