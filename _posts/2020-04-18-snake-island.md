@@ -23,7 +23,7 @@ By some estimates, there is one snake per square metre of the island, lending th
 
 ![_config.yml]({{ site.baseurl }}/assets/images/snake_island/golden-lancehead.jpg)
 
-These snakes don't have any prey on ground, which is why they have taken to crawling up on trees and hunting the. Although there are 41 recorded species of birds on the island, the golden lancehead preys on only two : the southern house wren, and the Chilean elaenia (a species of flycatcher).
+These snakes don't have any prey on ground, which is why they have taken to crawling up on trees and hunting the birds. Although there are 41 recorded species of birds on the island, the golden lancehead preys on only two : the southern house wren, and the Chilean elaenia (a species of flycatcher).
 
 Normally snakes bite their prey and wait, tracking the prey later when the venom has taken its effect. Since tracking birds might be difficult, the golden lancehead has evolved an incredibly potent venom, which kills its prey almost instantly.
 
