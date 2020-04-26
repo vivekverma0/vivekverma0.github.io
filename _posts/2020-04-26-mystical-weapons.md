@@ -6,7 +6,7 @@ categories: mythology
 comments: true
 ---
 
-Hindu mythology is filled with the use of mystical weapons during the wars as well as during individual battles. Here are some of the weapons which find mention in these texts.
+Hindu mythology is filled with the use of divine weapons during the wars as well as during individual battles. Here are some of the weapons which find mention in these texts.
 
 <b>Brahmastra</b>
 
