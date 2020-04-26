@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mystical Weapons"
+title:  "Mythological Weapons"
 date:   2020-04-26 20:21:59 +0100
 categories: mythology
 comments: true
