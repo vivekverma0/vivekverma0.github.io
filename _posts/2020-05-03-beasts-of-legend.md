@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beasts of Legend"
-date:   2020-05-02 20:21:59 +0100
+date:   2020-05-03 07:21:59 +0100
 categories: mythology
 comments: true
 ---
