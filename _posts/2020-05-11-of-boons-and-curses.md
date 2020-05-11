@@ -6,7 +6,7 @@ categories: mythology
 comments: true
 ---
 
-This is a story about some of the boons and curses which were meted out in Hindu mythology, and how they affected the future course.
+Another one in the mythology series. This is a story about some of the boons and curses which were meted out in Hindu mythology, and how they affected the future course.
 
 <b>Boon - Sage Durvasa to Kunti, Curse - Sage Kindama to Pandu</b>
 
