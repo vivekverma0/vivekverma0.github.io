@@ -2,7 +2,7 @@
 layout: post
 title:  "Real life Aquamen"
 date:   2020-10-02 21:21:59 +0100
-categories: culture
+categories: culture, travel
 comments: true
 ---
 
