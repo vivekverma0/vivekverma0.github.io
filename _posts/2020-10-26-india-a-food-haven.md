@@ -2,7 +2,7 @@
 layout: post
 title:  "India - A Food Haven"
 date:   2020-10-26 10:21:59 +0100
-categories: culture, food
+categories: culture food
 comments: true
 ---
 
